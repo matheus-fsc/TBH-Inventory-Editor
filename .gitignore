@@ -1,0 +1,23 @@
+# ==============================================================================
+# AVISO / DISCLAIMER
+# ==============================================================================
+# Este repositório contém apenas uma ferramenta de edição e visualização de inventário
+# para fins de backup, estudo e customização offline/pessoal (modding).
+# Esta ferramenta NÃO é um cheat, NÃO automatiza ações no jogo (não é bot), NÃO
+# burla sistemas antitrapaça (anti-cheat) nem viola mecanismos de DRM do jogo.
+#
+# Para preservar a integridade do jogo original e evitar violações de direitos,
+# todos os arquivos binários do jogo, dados proprietários e chaves de ambiente
+# são expressamente desconsiderados e mantidos fora deste repositório público.
+# ==============================================================================
+
+# Configurações locais e chaves
+.env
+
+# Scripts e arquivos de deploy
+deploy.py
+deploy/
+
+# Dados e arquivos do jogo (não distribuídos para respeitar direitos autorais)
+game/
+game-data/
